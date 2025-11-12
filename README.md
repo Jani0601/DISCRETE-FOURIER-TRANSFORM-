@@ -1,5 +1,5 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-
+## Date : 12-11-2025
 # AIM: 
 
 # To Obtain DFT and FFT of a given sequence in SCILAB. 
