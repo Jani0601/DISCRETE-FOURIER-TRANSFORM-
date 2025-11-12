@@ -1,4 +1,6 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
+
+## Name : Sri Jani G
 ## Date : 12-11-2025
 # AIM: 
 
